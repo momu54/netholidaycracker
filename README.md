@@ -19,6 +19,7 @@
 | Windows  | `%appdata%/NetHolidayCracker/answers.json`                     |
 | macOS    | `~/Library/Application Support/NetHolidayCracker/answers.json` |
 | Linux    | `~/.config/NetHolidayCracker/answers.json`                     |
+  
 刷一科的題目大約需要 4 分鐘
 
 ### 注意!
